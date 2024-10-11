@@ -1,0 +1,6 @@
+echo numpy > requirements.txt
+echo opencv-python >> requirements.txt
+echo Pillow >> requirements.txt
+echo torch >> requirements.txt
+echo torchvision >> requirements.txt
+echo PyQt5 >> requirements.txt
